@@ -1,0 +1,6 @@
+[submodule "Employee_Attrition"]
+	path = Employee_Attrition
+	url = https://github.com/KaustubhaRam/Employee_Attrition.git
+[submodule "Financial_Analytics"]
+	path = Financial_Analytics
+	url = https://github.com/KaustubhaRam/Financial_Analytics.git
