@@ -1,3 +1,6 @@
 [submodule "Employee_Attrition"]
 	path = Employee_Attrition
 	url = https://github.com/KaustubhaRam/Employee_Attrition.git
+[submodule "Amazon_Sales"]
+	path = Amazon_Sales
+	url = https://github.com/KaustubhaRam/Amazon_Sales.git
